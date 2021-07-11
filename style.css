@@ -1,0 +1,136 @@
+
+.header {
+    display: flex;  
+    justify-content:flex-end;
+    background-color: rgb(9, 9, 87);
+    font-size: 26px;
+    font-family: Trebuchet MS;
+    color: rgb(255, 255, 255);
+    justify-content: space-around;
+    
+}
+.menu a{
+    display:flex;
+    margin-left: 400px;
+    justify-content: right;
+    background-color: rgb(9, 9, 87);
+    font-size: 18px;
+    font-family: Trebuchet MS;
+    color: rgb(225, 194, 94);
+}
+
+.body{
+    display:flex-end;
+    margin-top:20px;
+    background-color: rgb(114, 7, 7);
+    font-size: 24px;
+    font-family:Trebuchet MS;
+    color: rgb(226, 208, 184);
+    justify-content: space-between;
+}
+.body1 {
+    
+    background-color: burlywood;
+    font-family:Trebuchet MS;
+    color: rgb(114, 7, 7);
+    justify-content: start;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.grid {
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: rgb(211, 223, 104);
+    width: 1330px;
+}
+
+.grid1 {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    justify-content: space-evenly;
+}
+
+.grid2{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    justify-content: space-evenly;
+}
+
+.grid1 img{
+    background-color:whitesmoke;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.grid2 img{
+    background-color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.origami1{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: rgb(0, 119, 255);
+    width: 380px;
+    font-family: Arial;
+}
+
+.origami2{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: rgb(218, 122, 26);
+    width: 380px;
+    font-family:Arial;
+    color: rgb(255, 255, 255);
+}
+
+.origami3{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: pink;
+    width: 380px;
+    font-family:Arial;
+}
+
+.origami4{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: rgb(13, 182, 13);
+    width: 380px;
+    font-family:Arial;
+
+}
+
+.origami5{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: purple;
+    width: 380px;
+    font-family: Arial;
+    color: gainsboro;
+}
+
+.origami6{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: rgb(245, 245, 53);
+    width: 380px;
+    font-family:Arial;
+}
